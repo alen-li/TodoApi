@@ -15,3 +15,4 @@ C:\git\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfo.cs
 C:\git\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.RazorTargetAssemblyInfo.cache
 C:\git\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.dll
 C:\git\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.pdb
+C:\git\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csprojAssemblyReference.cache
